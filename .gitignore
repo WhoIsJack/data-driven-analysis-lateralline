@@ -1,0 +1,14 @@
+# Ignore hidden things
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+
+# Ignore anything in data
+data/*
+
+# Ignore notes dir
+notes/
+
+# Ignore irrelevant outputs
+profile.html
+AtlasScores_*
