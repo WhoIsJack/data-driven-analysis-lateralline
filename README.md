@@ -3,7 +3,7 @@
 This repository hosts the code developed for and used in the paper entitled `"An Image-Based Data-Driven Analysis of Cellular Architecture in a Developing Tissue" (Hartmann et al., 2020)`.  All code was written by Jonas Hartmann.
 
 - Preprint on bioRxiv: [link](https://www.biorxiv.org/content/10.1101/2020.02.10.941690v1)
-- Peer-reviewed version: [link](https://elifesciences.org/articles/55913)
+- Peer-reviewed version in eLife: [link](https://elifesciences.org/articles/55913)
 
 Note that the primary purpose of this repository is to ensure **reproducibility** of the specific results presented in the paper. We are working to provide a cleaned and simplified python 3 port that is geared toward **reuse**. If you are interested in using our code in your own work, we recommend that you head over to the [python 3 port repository](https://github.com/WhoIsJack/katachi).
 
