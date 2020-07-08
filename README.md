@@ -26,7 +26,7 @@ The repository consists of a python module (`katachi`) that provides functions a
 
 ### Data Availability
 
-- Data is available from the [IDR Repository](https://idr.openmicroscopy.org/) under the identifier [idr0079](to be added) `<work in progress - direct link forthcoming>`.
+- Data is available from the [IDR Repository](https://idr.openmicroscopy.org/) under the identifier [idr0079](https://doi.org/10.17867/10000138).
 - The IDR provides raw images and segmentations as well as extracted and predicted features.
 - The code in this repository expects the IDR data to be present in a folder called `data`.
 	- The `ANALYSIS_*` notebooks can be run with only the data provided in the `extracted_measurements` folder in the IDR dataset. If you only want to look at the analysis, it is recommended to only download those folders rather than the entire dataset, since the image data itself is rather large.
